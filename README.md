@@ -1,5 +1,4 @@
-# cs61a
-This is a test file.
+## UCB CS61A 2020 Fall<br />
 
-#test
-This is from my VScode
+I am a programming beginner. <br />
+I just want to record and share my learning process.
