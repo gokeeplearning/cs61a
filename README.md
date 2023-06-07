@@ -1,5 +1,5 @@
-## UCB CS61A 2020 Fall<br />
+# UCB CS61A 2020 Fall
+### This repository saves my solutions for labs, homeworks, discussions and projects for this course.
 
-I am a programming beginner. <br />
-I want to record and share my learning process. <br />
-This repository contains my solutions for labs, projects and homeworks for this course. <br />
+As a programming beginner, I want to record and share my learning process of CS61A. <br />
+There might be some errors, don't take it serious. <br />
